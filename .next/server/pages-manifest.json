@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/faculty/dashboard": "pages/faculty/dashboard.js",
+  "/profile": "pages/profile.js",
+  "/faculty/work-diary-history": "pages/faculty/work-diary-history.js",
+  "/login": "pages/login.js",
+  "/api/auth/login": "pages/api/auth/login.js",
+  "/admin/dashboard": "pages/admin/dashboard.js",
+  "/api/admin/reports": "pages/api/admin/reports.js"
+}
