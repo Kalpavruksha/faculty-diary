@@ -30,4 +30,4 @@ export async function isAdmin(req: AuthRequest, res: NextApiResponse, next: () =
     return res.status(403).json({ error: 'Not authorized as admin' });
   }
   next();
-} 
+}
