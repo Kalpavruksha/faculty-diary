@@ -31,3 +31,4 @@ export async function isAdmin(req: AuthRequest, res: NextApiResponse, next: () =
   }
   next();
 }
+
